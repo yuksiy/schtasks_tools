@@ -25,7 +25,7 @@ schtasks の出力結果XMLファイルをTSVファイルに変換します。
     上記で作成した入力ファイルをフォーマット変換します。
     # msxsl schtasks-one.xml 本パッケージのインストールディレクトリ/schtasks.xsl -o schtasks-one.tsv
 
-### schtasks_postproc_new.pl
+### schtasks_postproc.pl
 
 schtasks.xsl の変換結果TSVファイルの後処理をします。
 
